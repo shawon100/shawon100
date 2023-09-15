@@ -26,7 +26,7 @@ Experienced DevOps Engineer with a proven track record of automating, optimizing
 
 ## Skills
 
-- **DevOps**: Linux, Docker, Kubernetes, Terraform, CI/CD, Microservices DevOps Architecture, System Design
+- **DevOps**: Linux, Docker, Kubernetes, Terraform, CI/CD, Azure DevOps, Nginx, Microservices DevOps Architecture, System Design
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Github Actions, Azure Pipelines, GitLab CI/CD, Jenkins
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Scripting/Programming/Software Engineering**: C++, Python, Java, Javascript, PHP, Bash, Design Patterns
