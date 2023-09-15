@@ -22,19 +22,20 @@ Here are some ideas to get you started:
 
 ## Summary
 
-Experienced DevOps Engineer with a proven track record of automating, optimizing, and securing mission-critical infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP), Monitoring, and Infrasturcture Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
+Experienced DevOps Engineer with a proven track record of automating, optimizing, and securing mission-critical infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP), Monitoring, System Design, Microservices, and Infrasturcture Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
 
 ## Skills
 
-- **DevOps Tools**: Linux, Docker, Kubernetes, Terraform, CI/CD
+- **DevOps**: Linux, Docker, Kubernetes, Terraform, CI/CD, Microservices DevOps Architecture, System Design
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Github Actions, Azure Pipelines, GitLab CI/CD, Jenkins
 - **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Scripting/Programming**: Bash, Python, C++, Java, Javascript
+- **Scripting/Programming/Software Engineering**: C++, Python, Java, Javascript, PHP, Bash, Design Patterns
 - **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
 - **Version Control**: Git, GitHub, GitLab
 - **Infrastructure as Code (IaC)**: Terraform
 - **Security**: Vulnerability scanning, Security policies
 - **Collaboration Tools**: Micorsoft Teams, Slack, Jira, Confluence
+- **Web Development Skills**: HTML, CSS, Flask (Python), Angular, .NET Core, PHP, Django (Python)
 - **AI Skills**: Machine Learning, Deep Learning, NLP, GPT4, LLAMA
 
 
