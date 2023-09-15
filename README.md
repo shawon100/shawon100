@@ -35,8 +35,8 @@ Experienced DevOps Engineer with a proven track record of automating, optimizing
 - **Infrastructure as Code (IaC)**: Terraform
 - **Security**: Vulnerability scanning, Security policies
 - **Collaboration Tools**: Micorsoft Teams, Slack, Jira, Confluence
-- **Web Development Skills**: HTML, CSS, Flask (Python), Angular, .NET Core, PHP, Django (Python)
-- **AI Skills**: Machine Learning, Deep Learning, NLP, GPT4, LLAMA
+- **Web Development**: HTML, CSS, Flask (Python), Angular, .NET Core, PHP, Django (Python)
+- **AI**: Machine Learning, Deep Learning, Data Mining, Image Procesing, NLP, GPT4, LLAMA
 
 
 ## Contact
