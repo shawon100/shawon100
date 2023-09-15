@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Summary
 
-Experienced DevOps Engineer with a proven track record of automating, optimizing, and securing mission-critical infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP), Monitoring, System Design, Microservices, and Infrasturcture Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
+5+ years of Experienced DevOps Engineer with a proven track record of deploying, automating, optimizing, and securing mission-critical Cloud & DevOps infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP), Monitoring (Grafana, Prometheus, Tempo), Logging (Elastic Search, Logstash, Kibana, Filebeat , Loki), System Design, Microservices, and Infrasturcture Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
 
 ## Skills
 
@@ -30,7 +30,7 @@ Experienced DevOps Engineer with a proven track record of automating, optimizing
 - **Continuous Integration/Continuous Deployment (CI/CD)**: Github Actions, Azure Pipelines, GitLab CI/CD, Jenkins
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Scripting/Programming/Software Engineering**: C++, Python, Java, Javascript, PHP, Bash, Design Patterns
-- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
+- **Monitoring and Logging**: Prometheus, Grafana, Tempo, Loki, ELK Stack (Elastic Search, Logstash, Kibana, Filebeat)
 - **Version Control**: Git, GitHub, GitLab
 - **Infrastructure as Code (IaC)**: Terraform
 - **Security**: Vulnerability scanning, Security policies
@@ -38,6 +38,42 @@ Experienced DevOps Engineer with a proven track record of automating, optimizing
 - **Web Development**: HTML, CSS, Flask (Python), Angular, .NET Core, PHP, Django (Python)
 - **AI**: Machine Learning, Deep Learning, Data Mining, Image Procesing, NLP, GPT4, LLAMA
 
+## Experience
+
+### DevOps Engineer
+**Ilink Digital** - Remote 
+- Led the implementation of Kubernetes for container orchestration, resulting in a 30% reduction in infrastructure costs.
+- Automated deployment pipelines, reducing deployment time by 50% and improving system reliability.
+- Developed QA Pipelines to automate the QA in multiple environments.
+- Collaborated with development teams to optimize application performance and troubleshoot pipeline & microservice issues.
+
+
+### DevOps Engineer
+**RL Technologies** - Dhaka, Bangladesh 
+- Deployed ELK Stack in Kubernetes for Log Management
+- Deployed full infrastructure in Azure for Microservice Architecture
+- Developed Kubernetes Configmap based configuration system for Microservices
+- Setup CI/CD pipelines of all microservices to automate the deployments. 
+
+### DevOps Engineer
+**SELISE Digital Platform** - Dhaka, Bangladesh
+- Designed and developed microservice deployment architecture and infrastructure on Azure.
+- Developed CI/CD architecture and pipelines on Azure.
+- Developed terraform scripts to automate the infrastructure provision on Azure.
+- Added Helm package managing system of deployed services.
+- Deployed microservices on AWS EC2, ECS, EKS and ElasticBeanStalk using Github Action.
+- Migrated services from AWS to Azure.
+- Updated microservice routing architecture.
+
+### Software Engineer
+**Frontier Semiconductor** - Dhaka, Bangladesh
+- Developed silicon wafer map defect detection software.
+- Migrated a thickness measurement software from matlab to c++
+
+## Education
+
+- Bachelor of Science & Engineering in Computer Science & Engineering (CSE)
+  **Rajshahi university of Engineering & Technology** - Rajshahi, Bangladesh 
 
 ## Contact
 
