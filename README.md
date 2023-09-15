@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Ashadullah SHawon
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashadullah%20Shawon-blue)](https://www.linkedin.com/in/ashadullah-shawon-b51606aa/)
-[![Blog](https://img.shields.io/badge/GitHub-shawonruet-green)](https://shawonruet.com)
+[![Blog](https://img.shields.io/badge/Blog-shawonruet-green)](https://shawonruet.com)
 
 
 ## Summary
@@ -42,6 +42,6 @@ Experienced DevOps Engineer with a proven track record of automating, optimizing
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ashadullah-shawon-b51606aa/)
 - GitHub: [GitHub Profile](https://github.com/shawon100)
-- Email: shawonashadullah@email.com
+- Email: shawonashadullah@gmail.com
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shawon100)
