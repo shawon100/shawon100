@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ashadullah SHawon
+# Ashadullah Shawon
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashadullah%20Shawon-blue)](https://www.linkedin.com/in/ashadullah-shawon-b51606aa/)
 [![Blog](https://img.shields.io/badge/Blog-shawonruet-green)](https://shawonruet.com)
 
