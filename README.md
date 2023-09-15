@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 - Migrated a thickness measurement software from matlab to c++
 
 ## Education
-**Rajshahi University of Engineering & Technology** - Rajshahi, Bangladesh 
+**Rajshahi University of Engineering & Technology (RUET)** - Rajshahi, Bangladesh 
 - Bachelor of Science & Engineering in Computer Science & Engineering (CSE)
  
 
