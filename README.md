@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - **Security**: Vulnerability scanning, Security policies
 - **Collaboration Tools**: Micorsoft Teams, Slack, Jira, Confluence
 - **Web Development**: HTML, CSS, Flask (Python), Angular, .NET Core, PHP, Django (Python)
-- **AI**: Machine Learning, Deep Learning, Data Mining, Image Procesing, NLP, GPT4, LLAMA
+- **AI**: Machine Learning, Deep Learning, Data Mining, Image Procesing, NLP, GPT4, LLAMA2, MLOPS
 
 ## Experience
 
