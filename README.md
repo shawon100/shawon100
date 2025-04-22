@@ -53,14 +53,6 @@ Here are some ideas to get you started:
 
 
 ### DevOps Engineer
-**Ilink Digital** - Remote 
-- Led the implementation of Kubernetes for container orchestration, resulting in a 30% reduction in infrastructure costs.
-- Automated deployment pipelines, reducing deployment time by 50% and improving system reliability.
-- Developed QA Pipelines to automate QA in multiple environments.
-- Collaborated with development teams to optimize application performance and troubleshoot pipeline & microservice issues.
-
-
-### DevOps Engineer
 **RL Technologies** - Dhaka, Bangladesh 
 - Deployed ELK Stack in Kubernetes for Log Management
 - Deployed full infrastructure in Azure for Microservice Architecture
