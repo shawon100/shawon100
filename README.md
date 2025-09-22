@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## Experience
 
 ### DevOps Engineer
-**Frontline Data Solutions** - Remote 
+**Aimlyfy** - Remote 
 - Led the implementation of Kubernetes for container orchestration, resulting in a 30% reduction in infrastructure costs.
 - Automated deployment pipelines, reducing deployment time by 50% and improving system reliability.
 - Developed QA Pipelines to automate QA in multiple environments.
