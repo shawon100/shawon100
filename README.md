@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Summary
 
-5+ years of Experienced DevOps Engineer with a proven track record of deploying, automating, optimizing, and securing mission-critical Cloud & DevOps infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP), Monitoring (Grafana, Prometheus, Tempo), Logging (Elastic Search, Logstash, Kibana, Filebeat , Loki), System Design, Microservices, and Infrastructure Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
+7+ years of Experienced DevOps Engineer with a proven track record of deploying, automating, optimizing, and securing mission-critical Cloud & DevOps infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP),Terraform, Monitoring (Grafana, Prometheus, Tempo), Logging (Elastic Search, Logstash, Kibana, Filebeat , Loki), System Design, Microservices, and Infrastructure Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
 
 ## Skills
 
