@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Ashadullah Shawon
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashadullah%20Shawon-blue)](https://www.linkedin.com/in/ashadullah-shawon-b51606aa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black)](https:///shawon100.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ashadullah%20Shawon-black)](https:///shawon100.github.io)
 [![Blog](https://img.shields.io/badge/Blog-shawonruet-gree)](https://shawonruet.com)
 
 
