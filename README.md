@@ -1,4 +1,4 @@
-### Welcome to my Github Profile 👋
+### Welcome to my GitHub Profile 👋
 
 <!--
 **shawon100/shawon100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Summary
 
-7+ years of Experienced DevOps Engineer with a proven track record of deploying, automating, optimizing, and securing mission-critical Cloud & DevOps infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP),Terraform, Monitoring (Grafana, Prometheus, Tempo), Logging (Elastic Search, Logstash, Kibana, Filebeat , Loki), System Design, Microservices, and Infrastructure Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
+7+ years of Experienced DevOps Engineer with a proven track record of deploying, automating, optimizing, and securing mission-critical Cloud & DevOps infrastructure. Strong background in Docker, Kubernetes, CI/CD, Cloud Technologies (AWS, Azure, GCP), Terraform, Monitoring (Grafana, Prometheus, Tempo), Logging (Elasticsearch, Logstash, Kibana, Filebeat, Loki), System Design, Microservices, and Infrastructure Automation. Passionate about enhancing software delivery pipelines and ensuring high system reliability.
 
 ## Skills
 
@@ -43,37 +43,40 @@ Here are some ideas to get you started:
 
 ### DevOps Engineer
 **LTIMindtree** - Remote 
-- Led the implementation of Kubernetes for container orchestration, resulting in a 30% reduction in infrastructure costs.
-- Automated deployment pipelines, reducing deployment time by 50% and improving system reliability.
-- Developed QA Pipelines to automate QA in multiple environments.
-- Collaborated with development teams to optimize application performance and troubleshoot pipeline & microservice issues.
-- Designed, developed, and maintained YAML-based Azure Pipelines for automated builds, tests, deployments, and releases.
-- Created multi-stage pipelines for dev, QA, staging, and production environments.
-- Integrated third-party tools like SonarQube, code coverage tools, and security scanners into the CI/CD process.
-- Integrated Python scripts into Azure Pipeline steps for custom task execution, automating repetitive processes and achieving 90% time savings compared to manual execution.
+▹Built full production-grade Azure infrastructure from scratch — VNet, AKS cluster, Application Gateway, ACR, Key Vault, Log Analytics — with complete infra and deployment ownership.
+▹Designed, automated, and maintained automation workflows for Boundary BoltCloud services, integrating GitHub Actions, Helm, and Kubernetes to streamline configuration deployment, improve reliability, and reduce manual operational overhead.
+▹Implemented Boundary BR split architecture to securely forward traffic from federated cloud environments to boundary cloud services using Istio service mesh gateway, Kubernetes-native deployments, and infrastructure-as-code best practices.
+▹Led Jenkins to GitHub Actions migration for all backend and frontend services, delivering reusable workflow templates, self-hosted private runners, and standardised secret management.
+▹Deployed and operated AI/ML inference services on a GPU-enabled Kubernetes cluster with high availability — configured GPU node pools, resource quotas, pod anti-affinity rules, and HPA to ensure zero-downtime model serving under variable load.
+▹Led Kubernetes container orchestration implementation, achieving 30% reduction in infrastructure costs across multi-tenant environments.
+▹Automated deployment pipelines reducing deployment time by 50% and improving system reliability to 99.9% uptime.
+▹Developed QA Pipelines to automate testing across Dev, QA, Staging, and Production environments.
+▹Designed and maintained YAML-based Azure Pipelines for automated builds, tests, deployments, and releases.
+▹Integrated SonarQube, code coverage tools, and security scanners into the CI/CD pipeline.
+▹Built Python automation scripts integrated into Azure Pipeline steps, achieving 90% time savings vs manual execution.
 
 
 ### DevOps Engineer
 **RL Technologies** - Dhaka, Bangladesh 
-- Deployed ELK Stack in Kubernetes for Log Management
-- Deployed full infrastructure in Azure for Microservice Architecture
-- Developed Kubernetes Configmap-based configuration system for Microservices
-- Set up CI/CD pipelines of all microservices to automate the deployments. 
+▹Deployed full ELK Stack (Elasticsearch, Logstash, Kibana, Filebeat) in Kubernetes for centralized log management.
+▹Designed and deployed complete Azure infrastructure for a microservice-based architecture.
+▹Developed a Kubernetes ConfigMap-based configuration management system for all microservices.
+▹Set up CI/CD pipelines for all microservices, fully automating deployments from commit to production.
 
 ### DevOps Engineer
 **SELISE Digital Platform** - Dhaka, Bangladesh
-- Designed and developed microservice deployment architecture and infrastructure on Azure.
-- Developed CI/CD architecture and pipelines on Azure.
-- Developed Terraform scripts to automate the infrastructure provision on Azure.
-- Helm package management system was added for deployed services.
-- Deployed microservices on AWS EC2, ECS, EKS, and Elastic Beanstalk using GitHub Actions.
-- Migrated services from AWS to Azure.
-- Updated microservice routing architecture.
+▹Designed and developed microservice deployment architecture and full cloud infrastructure on Azure.
+▹Built CI/CD architecture and pipelines on Azure DevOps for 15+ microservices.
+▹Authored Terraform scripts to automate infrastructure provisioning on Azure, reducing setup time by 80%.
+▹Implemented Helm package management for all deployed services, standardizing Kubernetes deployments.
+▹Deployed microservices on AWS EC2, ECS, EKS, and Elastic Beanstalk using GitHub Actions.
+▹Led successful migration of services from AWS to Azure with zero downtime.
+▹Configured Virtual Machine Scale Sets for auto-scaling workloads and Nginx with Azure Application Gateway for microservice routing.
 
 ### Software Engineer
 **Frontier Semiconductor** - Dhaka, Bangladesh
-- Developed silicon wafer map defect detection software.
-- Migrated a thickness measurement software from MATLAB to C++
+▹Developed silicon wafer map defect detection software for semiconductor quality analysis.
+▹Migrated thickness measurement software from MATLAB to C++, improving performance by 3x.
 
 ## Education
 **Ontario Tech University** - Ontario, Canada
